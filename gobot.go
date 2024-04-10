@@ -1,4 +1,4 @@
-package gobot
+package main
 
 import (
 	"fmt"
@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	appVersion = ""
+	appVersion = "1.0.0"
 	TeleToken  = os.Getenv("TELE_TOKEN")
 )
 
