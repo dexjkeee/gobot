@@ -26,6 +26,3 @@ export TELE_TOKEN
 
 # Start the bot
 ./gobot
-
-
-Translated with www.DeepL.com/Translator (free version)
